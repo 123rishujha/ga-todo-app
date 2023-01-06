@@ -3,6 +3,7 @@ name: Github Action No. 2
 on:
   push:
     brances: ["main"]
+  workflow_dispatch:
 
 permissions:
   contents: read
