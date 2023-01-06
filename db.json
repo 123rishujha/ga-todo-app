@@ -24,6 +24,21 @@
       "value": "E",
       "isCompleted": false,
       "id": 5
+    },
+    {
+      "value": "Javascript",
+      "isCompleted": false,
+      "id": 6
+    },
+    {
+      "value": "Html",
+      "isCompleted": false,
+      "id": 7
+    },
+    {
+      "value": "React",
+      "isCompleted": false,
+      "id": 8
     }
   ]
 }
